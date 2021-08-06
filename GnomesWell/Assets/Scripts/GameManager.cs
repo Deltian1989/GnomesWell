@@ -30,10 +30,10 @@ public class GameManager : Singleton<GameManager>
 
     void Start()
     {
-        Reset();
+        ResetGame();
     }
 
-    public void Reset()
+    public void ResetGame()
     {
         if (gameOverMenu)
             gameOverMenu.gameObject.SetActive(false);
@@ -120,7 +120,7 @@ public class GameManager : Singleton<GameManager>
     IEnumerator ResetAfterDelay()
     {
         yield return new WaitForSeconds(delayAfterDeath);
-        Reset();
+        ResetGame();
     }
 
     public void TrapTouched()
@@ -182,6 +182,6 @@ public class GameManager : Singleton<GameManager>
     {
         Destroy(currentGnome.gameObject);
         currentGnome = null;
-        Reset();
+        ResetGame();
     }
 }

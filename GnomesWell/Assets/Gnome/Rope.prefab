@@ -165,8 +165,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ropeSegmentPrefab: {fileID: 1670060521857854, guid: 49635b73067682444ad551ad747d60a4, type: 3}
-  isIncreasing: 0
-  isDecreasing: 0
   connectedObject: {fileID: 0}
   maxRopeSegmentLength: 1
   ropeSpeed: 4
