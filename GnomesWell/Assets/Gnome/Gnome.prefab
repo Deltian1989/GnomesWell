@@ -1382,12 +1382,12 @@ MonoBehaviour:
   armHoldingEmpty: {fileID: 21300000, guid: a1ee775673d6b446a9c7df3516921a19, type: 3}
   armHoldingTreasure: {fileID: 21300000, guid: de67cc81a8fed4de2a276e5c9815ed83, type: 3}
   holdingArm: {fileID: 832298868777508515}
-  deathPrefab: {fileID: 0}
+  deathPrefab: {fileID: 2622052269892889279, guid: 9e23fb619a6ee324a8943110a24c7b47, type: 3}
   flameDeathPrefab: {fileID: 0}
   ghostPrefab: {fileID: 0}
   delayBeforeRemoving: 3
   delayBeforeReleasingGhost: 0.25
-  bloodFountainPrefab: {fileID: 0}
+  bloodFountainPrefab: {fileID: 5870163053509433248, guid: d858306767eb485499fda4f4bee9cb7f, type: 3}
 --- !u!1 &832298868777508516
 GameObject:
   m_ObjectHideFlags: 0
