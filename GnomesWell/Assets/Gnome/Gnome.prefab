@@ -714,7 +714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5651c5bed49cf5b4c906ea8563cf7ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detachedSprite: {fileID: 0}
+  detachedSprite: {fileID: 21300000, guid: 8afa1c3dcf75d4b8eb95a65ceac96a4c, type: 3}
   burntSprite: {fileID: 0}
   bloodFountainOrigin: {fileID: 1618318796}
 --- !u!1 &832298867992474746
@@ -881,7 +881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5651c5bed49cf5b4c906ea8563cf7ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detachedSprite: {fileID: 0}
+  detachedSprite: {fileID: 21300000, guid: e93188065d76f4346b397475472ede76, type: 3}
   burntSprite: {fileID: 0}
   bloodFountainOrigin: {fileID: 433381956}
 --- !u!1 &832298868016817780
@@ -1003,7 +1003,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5651c5bed49cf5b4c906ea8563cf7ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detachedSprite: {fileID: 0}
+  detachedSprite: {fileID: 21300000, guid: 20e9587363bb44d9992ff9e371975b60, type: 3}
   burntSprite: {fileID: 0}
   bloodFountainOrigin: {fileID: 0}
 --- !u!114 &924696762
@@ -1032,8 +1032,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.19000003, y: -0.29}
-  m_Size: {x: 2.03, y: 2}
+  m_Offset: {x: 0.11618473, y: 0.24515146}
+  m_Size: {x: 2.9157698, y: 3.6908119}
   m_Direction: 0
 --- !u!1 &832298868054990637
 GameObject:
@@ -1178,7 +1178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5651c5bed49cf5b4c906ea8563cf7ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detachedSprite: {fileID: 0}
+  detachedSprite: {fileID: 21300000, guid: 2b198ff5f6b074e87a1008a5aa817eaf, type: 3}
   burntSprite: {fileID: 0}
   bloodFountainOrigin: {fileID: 900803884}
 --- !u!1 &832298868169054731
@@ -1324,7 +1324,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5651c5bed49cf5b4c906ea8563cf7ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detachedSprite: {fileID: 0}
+  detachedSprite: {fileID: 21300000, guid: 16296a8f8be954235bc18fc5a20518cf, type: 3}
   burntSprite: {fileID: 0}
   bloodFountainOrigin: {fileID: 1566589998}
 --- !u!1 &832298868622217699
@@ -1531,6 +1531,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5651c5bed49cf5b4c906ea8563cf7ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detachedSprite: {fileID: 0}
+  detachedSprite: {fileID: 21300000, guid: 38c4b3fe54b99498bbb449ea10e5516c, type: 3}
   burntSprite: {fileID: 0}
   bloodFountainOrigin: {fileID: 1581350965}

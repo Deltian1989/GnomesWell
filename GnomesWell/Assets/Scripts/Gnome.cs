@@ -46,7 +46,7 @@ public class Gnome : MonoBehaviour
             {
                 if (_holdingTreasure)
                 {
-                    holdingArm.sprite = armHoldingEmpty;
+                    holdingArm.sprite = armHoldingTreasure;
                 }
                 else
                 {
